@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Farmers Elevator**
 
-- 💬 Ask me about **C#, Azure Cloud, CICD**
+- 💬 Ask me about **C#, Azure Cloud, CI/CD**
 
 - 📫 How to reach me **taufiqdanny@gmail.com**
 
