@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Taufiq</h1>
-<h3 align="center">A passionate Web Developer from Minnesota</h3>
+<h3 align="center">A passionate Developer from Minnesota</h3>
 
 - 🔭 I’m currently working on **Farmers Elevator**
 
-- 💬 Ask me about **Java, Javascript, HTML, CSS, Python**
+- 💬 Ask me about **C#, Azure Cloud, CICD**
 
 - 📫 How to reach me **taufiqdanny@gmail.com**
 
